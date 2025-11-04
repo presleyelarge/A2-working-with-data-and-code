@@ -26,7 +26,7 @@
 
 13. Go back to the home page of Github and repeat steps 3 - 10 - ensuring you click on files: A2_Broadway and A2_Circles
 
-##ACCESS TO PEER REVEIWS - both on oen doc
+##ACCESS TO PEER REVEIWS - both on one doc
 [Peer Review .pdf](https://github.com/user-attachments/files/23326218/Peer.Review.pdf)
 
 
