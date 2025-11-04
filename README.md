@@ -1,6 +1,6 @@
 ACCESS TO PROJECT
 
-1. To access my project follow the follwing steps: You need processing 4 (java)
+1. To access my project follow the follwing steps: You need processing 4 (java mode)
 
 2. Open link to my GitHub
 
@@ -12,7 +12,7 @@ ACCESS TO PROJECT
 
 6. This will open to my code for the Abstract artwork
 
-7. Once you have this, open Processing 4 (Java)
+7. Once you have this, open Processing 4 (Java mode)
 
 8. Then copy the code from the GitHub into processing
 
