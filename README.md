@@ -1,4 +1,4 @@
-ACCESS TO PROJECT
+##ACCESS TO PROJECT
 
 1. To access my project follow the follwing steps: You need processing 4 (java mode)
 
@@ -26,9 +26,9 @@ ACCESS TO PROJECT
 
 13. Go back to the home page of Github and repeat steps 3 - 10 - ensuring you click on files: A2_Broadway and A2_Circles
 
-ACCESS TO PEER REVEIWS 
+##ACCESS TO PEER REVEIWS 
 
-PICTURES OF PROJECT
+##PICTURES OF PROJECT
 
 <img width="1440" height="900" alt="Screen Shot 2025-11-04 at 11 14 24 am" src="https://github.com/user-attachments/assets/a5b44a33-5c19-4c51-a6b8-df8f19defeb3" />
 <img width="799" height="793" alt="Screen Shot 2025-11-04 at 11 14 37 am" src="https://github.com/user-attachments/assets/ed0ffc11-f4a7-485c-bbcb-f3683cff829e" />
