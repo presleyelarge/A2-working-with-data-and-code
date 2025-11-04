@@ -26,7 +26,17 @@
 
 13. Go back to the home page of Github and repeat steps 3 - 10 - ensuring you click on files: A2_Broadway and A2_Circles
 
-##ACCESS TO PEER REVEIWS 
+##ACCESS TO PEER REVEIWS
+
+
+##ACCESS TO JOURNAL
+[A2 Journal (2).pdf](https://github.com/user-attachments/files/23325399/A2.Journal.2.pdf)
+
+
+##CONCEPT MAPS
+<img width="506" height="654" alt="Screen Shot 2025-11-04 at 5 29 14 pm" src="https://github.com/user-attachments/assets/27bbe2c9-c31a-43a7-b576-655a04ad8693" />
+<img width="931" height="629" alt="Screen Shot 2025-11-04 at 5 29 22 pm" src="https://github.com/user-attachments/assets/9fd30c48-0d5b-4d00-a5d6-159233e1cfb5" />
+
 
 ##This is a video that I used to help me code
 https://www.youtube.com/watch?v=cnRD9o6odjk
